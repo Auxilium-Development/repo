@@ -1,0 +1,8 @@
+Origin: M4cs
+Label: M4cs
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: M4cs Development Repo For iOS 11
