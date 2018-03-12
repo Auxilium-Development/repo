@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+        <version>0.2-1+debug</version>
+		<change>Bug Fixes</change>
 		<version>0.1</version>
 		<change>First Release</change>
 	</changes>

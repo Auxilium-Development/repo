@@ -1,7 +1,7 @@
 <package>
 	<id>com.ezccmodules.control-center.ezlocationmodule</id>
 	<name>EzLocationModule</name>
-	<version>0.0.1</version>
+	<version>0.2-1+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -14,7 +14,7 @@
 		<description>A toggle to turn Location Services on or off from your control center.</description>
 	</descriptionlist>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Bug Fixes</change>
 	</changelog>
 	<links>
 		<link>
