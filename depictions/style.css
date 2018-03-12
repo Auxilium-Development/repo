@@ -1,5 +1,6 @@
 body {
     background-color: #232a32;
+    color:#50b2e0;
 }
 .disable-hover {
     pointer-events: none;
