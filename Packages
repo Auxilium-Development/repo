@@ -1,30 +1,30 @@
 Package: com.ezccmodules.control-center.ezlocationmodule
-Version: 0.0.1
+Version: 0.2-1+debug
 Section: Control Center (Modules)
-Maintainer: Chilaxan and M4cs
-Depends: firmware (>=11.0), mobilesubstrate
+Maintainer: macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Architecture: iphoneos-arm
 Filename: ./debs/ezLocation.deb
-Size: 8228
-MD5sum: 4f313fd690a60e797ab183321f13b010
-SHA1sum: 0f4f724cdcd74b2bf96192c5c6766e435b844970
-SHA256sum: e34f2619e58027e459f8df01b6432554d45d5b7d69e78f459cdedee50b79213b
+Size: 9998
+MD5sum: cc5644f7ea42de9718b964833c0c73f8
+SHA1sum: f2332d6b7cb53d57759fde6c5f940056a33c8597
+SHA256sum: 3a64c8de7d9624bd5b7ff49de3daa994e10ae47ec5e95354acdbe9b4bc9c35dc
 Description: A toggle to turn Location Services on or off from your control center.
 Name: EzLocationModule
 Author: Chilaxan and M4cs
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezLocation/
 
 Package: com.m4cs.control-center.ezrespring
-Version: 1.0
+Version: 1.2-1+debug
 Section: Control Center (Modules)
-Maintainer: M4cs
-Depends: firmware (>=11.0), mobilesubstrate
+Maintainer: Macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Architecture: iphoneos-arm
 Filename: ./debs/ezRespring.deb
-Size: 9418
-MD5sum: 5bf866ded3a77294013bb57371134c9a
-SHA1sum: b68ca1f710af9291ba4f274df45abd4c96d8ad77
-SHA256sum: 91ac61ee03db9f6667a739206917d12adbaa745afa88dc401812abf0eaf87e58
+Size: 7342
+MD5sum: 1879f347412dd7949f6ffe0081ebb3d7
+SHA1sum: c0f4a9661a040357a6c90fd9a6249eed3db9d63b
+SHA256sum: 97ebbfeb25919584ebb77fea1c708e45f7e88aa5abc84e6bf02142447b612e26
 Description: A Respring button for your Control Center.
 Name: EzRespring
 Author: M4cs
@@ -32,35 +32,35 @@ Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezRespring/
 
 
 Package: com.ezccmodules.control-center.ezsafemodemodule
-Version: 0.0.1
+Version: 0.2-1+debug
 Section: Control Center (Modules)
-Maintainer: M4cs
-Depends: firmware (>=11.0), mobilesubstrate
+Maintainer: macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Architecture: iphoneos-arm
 Filename: ./debs/ezSafemode.deb
-Size: 7612
-MD5sum: a45e6d66a4ad9cf2dce94488b5f6526b
-SHA1sum: 6d5cb1c26d7e4e954fc1f1c5e32e2e98fe492582
-SHA256sum: ca42867ea639409aaeab016424e266742990ba28eb115989fc957f2924e29c7f
+Size: 9600
+MD5sum: ec7e1e5378335cd3739402c5ca414036
+SHA1sum: baef8614fe3abe25e4c610985b695c85afeee631
+SHA256sum: dffb40754c303a11fab85b7f187ce9f58c943333f8b300fa22967e5073371ddf
 Description: A Safemode toggle for your Control Center. Requires Silo.
 Name: EzSafemode
 Author: M4cs
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSafemode/
 
 Package: com.exccmodules.control-center.ezuicache
-Version: 0.0.1
+Version: 0.2-1+debug
 Section: Control Center (Modules)
-Maintainer: m4cs.yourepo.com
-Depends: firmware (>=11.0), mobilesubstrate
+Maintainer: macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Architecture: iphoneos-arm
 Filename: ./debs/ezUicache.deb
-Size: 7358
-MD5sum: abd659e270b7c8ed45af1a7f7b51a32a
-SHA1sum: 41a60dd979e3fb8a36055eb04a6c5c881b12e63e
-SHA256sum: c76e065ea772a04e57052746c2404c18bcfa215eeaf1bbe7ff06e75ff71f69aa
+Size: 8248
+MD5sum: 269fba206970d5329f793dff0bd31a5c
+SHA1sum: 3e690603c306a84132a0e64b02e6d3ffd6ebb2bc
+SHA256sum: 457e557eeabe92bfe474de939e6c1fe6ce2c75a1d90af33336746a27398f075a
 Description: A UICache button for Control Center with Silo.
 Name: EzUICache
 Author: M4cs and Chilaxan
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezezUicache/
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezUicache/
 
 
