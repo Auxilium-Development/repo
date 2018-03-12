@@ -2,7 +2,7 @@ Package: com.ezccmodules.control-center.ezlocationmodule
 Version: 0.0.1
 Section: Control Center (Modules)
 Maintainer: Chilaxan and M4cs
-Depends: firmware (<11.0)
+Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ezLocation.deb
 Size: 10284
@@ -18,7 +18,7 @@ Package: com.m4cs.control-center.ezrespring
 Version: 1.0
 Section: Control Center (Modules)
 Maintainer: M4cs
-Depends: firmware (<11.0)
+Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ezRespring.deb
 Size: 9418
@@ -35,7 +35,7 @@ Package: com.ezccmodules.control-center.ezsafemodemodule
 Version: 0.0.1
 Section: Control Center (Modules)
 Maintainer: M4cs
-Depends: firmware (<11.0)
+Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ezSafemode.deb
 Size: 9760
@@ -51,7 +51,7 @@ Package: com.exccmodules.control-center.ezuicache
 Version: 0.0.1
 Section: Control Center (Modules)
 Maintainer: m4cs.yourepo.com
-Depends: firmware (<11.0)
+Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/ezSafemode.deb
 Size: 7358
