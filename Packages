@@ -5,10 +5,10 @@ Maintainer: Chilaxan and M4cs
 Depends: firmware (>=11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ezLocation.deb
-Size: 10284
-MD5sum: aa3c767c642bea67656aca2c15c8b8c5
-SHA1sum: 55752f187345a19233bdbcd73d362682db26670a
-SHA256sum: a84913faccf68193a165c719717a5e9b260880359cdb210b22472e386525d6b8
+Size: 8228
+MD5sum: 4f313fd690a60e797ab183321f13b010
+SHA1sum: 0f4f724cdcd74b2bf96192c5c6766e435b844970
+SHA256sum: e34f2619e58027e459f8df01b6432554d45d5b7d69e78f459cdedee50b79213b
 Description: A toggle to turn Location Services on or off from your control center.
 Name: EzLocationModule
 Author: Chilaxan and M4cs
@@ -38,10 +38,10 @@ Maintainer: M4cs
 Depends: firmware (>=11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ezSafemode.deb
-Size: 9760
-MD5sum: be646046a32031c7c677aff288d907f8
-SHA1sum: 92e4c449515024ceed7e09e27d1e22b23450ddde
-SHA256sum: 384e6e8baecd05191d9fd5b91c343cd5667c80c6de5c4031b803f3dccd33871c
+Size: 7612
+MD5sum: a45e6d66a4ad9cf2dce94488b5f6526b
+SHA1sum: 6d5cb1c26d7e4e954fc1f1c5e32e2e98fe492582
+SHA256sum: ca42867ea639409aaeab016424e266742990ba28eb115989fc957f2924e29c7f
 Description: A Safemode toggle for your Control Center. Requires Silo.
 Name: EzSafemode
 Author: M4cs
