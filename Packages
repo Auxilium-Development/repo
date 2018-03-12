@@ -53,7 +53,7 @@ Section: Control Center (Modules)
 Maintainer: m4cs.yourepo.com
 Depends: firmware (>=11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/ezSafemode.deb
+Filename: ./debs/ezUicache.deb
 Size: 7358
 MD5sum: abd659e270b7c8ed45af1a7f7b51a32a
 SHA1sum: 41a60dd979e3fb8a36055eb04a6c5c881b12e63e
