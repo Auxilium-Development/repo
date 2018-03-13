@@ -8,7 +8,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate com.ioscreatix.silo</package>
+		<package>mobilesubstrate</package>
+        <package>Silo</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Complete Package for EzCC. Will be adding toggles to this packages only form now on!</description>
