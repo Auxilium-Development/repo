@@ -10,9 +10,9 @@ Conflicts:
 Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
-Size: 40098
-MD5sum: 1e5f743db63aa6c0f2bd8c23f76f7402
-SHA1sum: 5a607873ccf0bfeec6a143b9a670f3f205337f09
-SHA256sum: c97d756af3e96f5f1f2d769d9a1a6328663c0e7b9eccb7615cc2ab039e79cbdc
+Size: 40064
+MD5sum: 3f400319fe8baa2e5bc8d4475888294c
+SHA1sum: 43e86951943372874654f9db489734da906088c5
+SHA256sum: 4378731aa535a6c2bcfb790ad92564ee4ab1e1bd53ca2319dd1ffea0c7f6d43b
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC/
 
