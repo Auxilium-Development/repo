@@ -9,7 +9,6 @@ Section: Control Center
 Conflicts:
 Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
-Icon ./Resources/EzCC.png
 Filename: ./debs/EzCC.deb
 Size: 40098
 MD5sum: 1e5f743db63aa6c0f2bd8c23f76f7402
