@@ -64,3 +64,19 @@ Author: M4cs and Chilaxan
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezUicache/
 
 
+Package: ezccmodules.control-center.ezcc
+Version: 0.0.1
+Section: Control Center (Modules)
+Maintainer: macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: ./debs/ezCC.deb
+Size: 22202
+MD5sum: 9e40dd37cc7e7e478d9680c78100d548
+SHA1sum: fc7995005e82e49d22d7420afae7bdc0bb1352e5
+SHA256sum: d18c2473d90b090eef26c3075c59e37d524056edbc3665b01c26e8ee7982a5b7
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Name: EzCC
+Author: M4cs, Simalary, Chiaxan, MidnightChips
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC/
+

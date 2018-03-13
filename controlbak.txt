@@ -1,0 +1,10 @@
+Package: ezccmodules.control-center.ezcc
+Name: EzCC
+Version:0.0.1
+Architecture:iphoneos-arm
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Maintainer: macs@m4cs.xyz
+Author: M4cs, Simalary, Chiaxan, MidnightChips
+Section: Control Center
+Conflicts:
+Depends:mobilesubstrate, com.ioscreatix.silo
