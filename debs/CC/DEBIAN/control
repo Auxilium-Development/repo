@@ -8,4 +8,4 @@ Author: M4cs, Simalary, Chiaxan, MidnightChips
 Section: Control Center
 Conflicts:
 Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
-Depends:mobilesubstrate, com.ioscreatix.silo
+Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo

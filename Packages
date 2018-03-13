@@ -1,18 +1,19 @@
 
 Package: ezccmodules.control-center.ezcc
-Version: 0.0.1
-Section: Control Center (Modules)
+Name: EzCC
+Version:0.0.1
+Architecture:iphoneos-arm
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
 Maintainer: macs@m4cs.xyz
-Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
+Author: M4cs, Simalary, Chiaxan, MidnightChips
+Section: Control Center (Modules)
+Conflicts:
 Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
-Architecture: iphoneos-arm
+Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
 Size: 22184
-MD5sum: bffd5d96a1946e1b6965ac9db6c3a581
-SHA1sum: 7e90aaea206b320a7ee9624f57661348a35b04a8
-SHA256sum: 9118486c1ebe53b342669c5d558a422427b44466413abcfdfc3756f6cecb5877
-Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
-Name: EzCC
-Author: M4cs, Simalary, Chiaxan, MidnightChips
+MD5sum: e293a20742047dd01b8dba8c60542271
+SHA1sum: 6c9d8a89bab493209d734ace6feedce735c1cc93
+SHA256sum: 87b9a5d8f6b26948e1304e24c09895c539a7f2c1f123c4481eee6544c42cb131
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC/
 
