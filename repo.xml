@@ -1,12 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow our Github</name>
+			<name> Follow our Github</name>
 			<url>https://github.com/M4cs-Development</url>
 			<iconclass>fab fa-github</iconclass>
 		</link>
         <link>
-            <name>Support Us!</name>
+            <name> Support Us!</name>
             <url>http://paypal.me/m4csdevelopment</url>
             <iconclass>fab fa-paypal</iconclass>
         </link>
