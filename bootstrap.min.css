@@ -3,6 +3,10 @@
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+.links {
+    display: table;
+    margin: 0 auto;
+}
 input[type="submit"].special,
         input[type="reset"].special,
         input[type="button"].special,
