@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+        <version>0.0.2</version>
+		<change>Added EzReboot and EzScreenshot</change>
 		<version>0.0.1</version>
 		<change>First Release</change>
 	</changes>
