@@ -10,6 +10,11 @@
             <url>http://paypal.me/m4csdevelopment</url>
             <iconclass>fab fa-paypal</iconclass>
         </link>
+        <link>
+            <name> Join our Discord!</name>
+            <url>https://discord.gg/XVVmXRW</url>
+            <iconclass>fab fa-discord</iconclass>
+        </link>
 
 	</footerlinks>
 </repo>
