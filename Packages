@@ -20,15 +20,17 @@ Package: pro.evanwalters.noblurfolderconxi
 Name: NoBlurFolderIconXI
 Version:0.2
 Architecture:iphoneos-arm
+Installed-Size: 120
+Conflicts: com.laughingquoll.noctisxi
 Description: Removes the blurry background on folder icons, fucks up the dock right now
 Maintainer: Evan Walters
 Author: Evan Walters
 Section: Tweaks
 Depends:mobilesubstrate
 Filename: ./debs/NoBlurFolderIconXI.deb
-Size: 3440
-MD5sum: ef21b5f45d81987386aadb6913b1edc5
-SHA1sum: ac81e34b109f785e3c314073865e3506e84355f9
-SHA256sum: bb4a2bc995f9c1fc2bd6f8d8f6cb128ef027a3cba2f7d913188ec90be0145de6 
+Size: 3474
+MD5sum: 8ed8f5afb472d3975657e7307594c0e2
+SHA1sum: 2e2d77f51cfcfe3c131ec53b9727a627eb38638f
+SHA256sum: c40d31c5e2486e189e8855ee4b04f71e945afcbd19ce3a052a438066f67d12f0
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=/NoBlurFolderIconXI
 
