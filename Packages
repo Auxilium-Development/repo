@@ -39,13 +39,13 @@ Name: EzCydiaOpener
 Version: 1.0
 Architecture:iphoneos-arm
 Description: The tweak that lets you open Cydia from the ControlCenter
-Maintainer: macs@m4cs.xyz
+Maintainer: Clarke1234
 Author: Clarke1234
 Section: Control Center 
 Conflicts:
 Replaces: 
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
-Filename: ./debs/EzCC.deb
+Filename: ./debs/EzCydiaOpener.deb
 Size: 11504
 MD5sum: cbee12cf74adb41cbee15df3a815542c
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
