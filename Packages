@@ -47,7 +47,6 @@ Replaces:
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
 Size: 11504
-MD5sum: CBEE12CF74ADB41CBEE15DF3A815542C
-SHA1sum: F01AA3140BDEE98529A469582E7717AE2DE62D86
-SHA256sum: 11E6645AF1DE7666BB2A3BA14B86A727B27939D9629CAC0F555932AF3AA5C9B6
+MD5sum: cbee12cf74adb41cbee15df3a815542c
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
+Installed-Size: 144
