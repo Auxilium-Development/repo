@@ -6,5 +6,6 @@ Description: Removes the blurry background on folder icons, fucks up the dock ri
 Maintainer: Evan Walters
 Author: Evan Walters
 Section: Tweaks
+Conflicts: com.laughingquoll.noctisxi
 Version: 0.2
 Installed-Size: 120
