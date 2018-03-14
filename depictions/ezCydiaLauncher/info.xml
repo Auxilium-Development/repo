@@ -1,0 +1,27 @@
+<package>
+	<id>com.clarke1234.ezcydiaopener_1.0-8_iphoneos-arm.deb</id>
+	<name>EzCydiaOpener</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Silo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A modular tweak for the Control Center that is a shortcut for Cydia! Sneak peek torwards EzLauncher!</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
