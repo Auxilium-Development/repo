@@ -36,7 +36,7 @@ Depiction: https://M4cs-Development.github.io/repo/depictions/?p=/NoBlurFolderIc
 
 Package: com.clarke1234.ezcydiaopener
 Name: EzCydiaOpener
-Version:0.0.1
+Version: 1.0
 Architecture:iphoneos-arm
 Description: The tweak that lets you open Cydia from the ControlCenter
 Maintainer: macs@m4cs.xyz
