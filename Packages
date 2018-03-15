@@ -7,9 +7,9 @@ Maintainer: macs@m4cs.xyz
 Author: M4cs, Simalary, Chiaxan, MidnightChips
 Section: Control Center 
 Conflicts:
-Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
-Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
+Depends:mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
+Icon: https://M4cs-Development.github.io/repo/debs/EzCC/resources/EzCC.png
 Size: 40064
 MD5sum: 534d6a7d2d9c968bc8b03d03bbf98212
 SHA1sum: b9737e56d1d5e5cd14b36ee18019480c89eede84
