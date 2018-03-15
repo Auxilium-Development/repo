@@ -1,0 +1,9 @@
+Package: com.m4cs-dev.simalary.control-center.ezsecretsettings
+Name: EzSecretSettings
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A button to show the hidden SpringBoard settings from Control Center.
+Author: Simalary (Chris Harper)
+Section: Control Center (Modules)
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: com.ioscreatix.silo (1.0.0.1-debug), mobilesubstrate
