@@ -61,8 +61,8 @@ Author: Simalary (Chris Harper)
 Section: Control Center 
 Conflicts:
 Replaces: 
-Depends:com.ioscreatix.silo (1.0.0-1+debug), mobilesubstrate
-Filename: ./debs/EzCydiaOpener.deb
+Depends: com.ioscreatix.silo (1.0.0-1+debug), mobilesubstrate
+Filename: ./debs/EzSecret.deb
 Size: 7,870
 MD5sum: b73a3bc1df751aac32878049f7d2622c
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSecretSettings
