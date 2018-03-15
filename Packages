@@ -1,6 +1,6 @@
 Package: ezccmodules.control-center.ezcc
 Name: EzCC
-Version:0.0.2
+Version:0.0.3
 Architecture:iphoneos-arm
 Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
 Maintainer: macs@m4cs.xyz
@@ -11,9 +11,7 @@ Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-cent
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
 Size: 40064
-MD5sum: 3f400319fe8baa2e5bc8d4475888294c
-SHA1sum: 43e86951943372874654f9db489734da906088c5
-SHA256sum: 4378731aa535a6c2bcfb790ad92564ee4ab1e1bd53ca2319dd1ffea0c7f6d43b
+MD5sum: 534d6a7d2d9c968bc8b03d03bbf98212
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC/
 
 Package: pro.evanwalters.noblurfolderconxi

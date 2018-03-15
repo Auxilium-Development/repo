@@ -1,13 +1,11 @@
 Package: ezccmodules.control-center.ezcc
 Name: EzCC
-Version:0.0.2
+Version:0.0.3
 Architecture:iphoneos-arm
 Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
 Maintainer: macs@m4cs.xyz
 Author: M4cs, Simalary, Chiaxan, MidnightChips
 Section: Control Center
 Conflicts:
-Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
-Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
-
-
+Depends:mobilesubstrate, com.ioscreatix.silo
+Icon: ./Resources/EzCC.png
