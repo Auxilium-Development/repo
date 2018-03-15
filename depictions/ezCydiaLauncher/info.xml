@@ -1,7 +1,7 @@
 <package>
-	<id>com.clarke1234.ezcydiaopener_1.0-8_iphoneos-arm.deb</id>
+	<id>com.clarke1234.ezcydiaopener</id>
 	<name>EzCydiaOpener</name>
-	<version>0.0.1</version>
+	<version>1.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>

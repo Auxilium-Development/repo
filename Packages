@@ -36,7 +36,7 @@ Depiction: https://M4cs-Development.github.io/repo/depictions/?p=/NoBlurFolderIc
 
 Package: com.clarke1234.ezcydiaopener
 Name: EzCydiaOpener
-Version: 1.0-8
+Version: 1.1-1
 Architecture:iphoneos-arm
 Description: The tweak that lets you open Cydia from the ControlCenter
 Maintainer: Clarke1234
@@ -46,7 +46,7 @@ Conflicts:
 Replaces: 
 Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCydiaOpener.deb
-Size: 11504
-MD5sum: cbee12cf74adb41cbee15df3a815542c
+Size: 11530
+MD5sum: 7e2879feb00cf402fa73f6456af47d07
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
 Installed-Size: 144
