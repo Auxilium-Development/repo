@@ -10,7 +10,7 @@ Conflicts:
 Depends:mobilesubstrate, com.ioscreatix.silo
 Filename: ./debs/EzCC.deb
 Icon: https://M4cs-Development.github.io/repo/debs/EzCC/resources/EzCC.png
-Size: 40064
+Size: 36804
 MD5sum: 534d6a7d2d9c968bc8b03d03bbf98212
 SHA1sum: b9737e56d1d5e5cd14b36ee18019480c89eede84
 SHA256sum: f2ef1d6e92c0b8aadc5513d4f0b67704f08d83b98eb597ff9997e2c5204723bc
