@@ -44,7 +44,7 @@ Author: Clarke1234
 Section: Control Center 
 Conflicts:
 Replaces: 
-Depends:firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
+Depends:mobilesubstrate, com.ioscreatix.silo (1.0.0-1+debug)
 Filename: ./debs/EzCydiaOpener.deb
 Size: 11530
 MD5sum: 7e2879feb00cf402fa73f6456af47d07
