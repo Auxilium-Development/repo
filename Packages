@@ -63,6 +63,6 @@ Conflicts:
 Replaces: 
 Depends: com.ioscreatix.silo (1.0.0-1+debug), mobilesubstrate
 Filename: ./debs/EzSecret.deb
-Size: 7,870
+Size: 7870
 MD5sum: b73a3bc1df751aac32878049f7d2622c
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSecretSettings
