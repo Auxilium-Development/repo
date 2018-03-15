@@ -50,3 +50,19 @@ Size: 11530
 MD5sum: 7e2879feb00cf402fa73f6456af47d07
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
 Installed-Size: 144
+
+Package: com.m4cs-dev.simalary.control-center.ezsecretsettings
+Name: EzSecretSettings
+Version: 1.0
+Architecture:iphoneos-arm
+Description: A button to show the hidden SpringBoard settings from Control Center.
+Maintainer: M4cs (macs@m4cs.xyz)
+Author: Simalary (Chris Harper)
+Section: Control Center 
+Conflicts:
+Replaces: 
+Depends:com.ioscreatix.silo (1.0.0-1+debug), mobilesubstrate
+Filename: ./debs/EzCydiaOpener.deb
+Size: 7,870
+MD5sum: b73a3bc1df751aac32878049f7d2622c
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSecretSettings
