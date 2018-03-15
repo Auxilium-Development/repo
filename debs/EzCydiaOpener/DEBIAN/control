@@ -1,7 +1,7 @@
 Package: com.clarke1234.ezcydiaopener
 Name: EzCydiaOpener
 Depends: mobilesubstrate, com.ioscreatix.silo
-Version: 1.0
+Version: 1.0-8
 Architecture: iphoneos-arm
 Description: The tweak that lets you open Cydia from the ControlCenter
 Maintainer: Clarke1234
