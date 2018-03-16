@@ -82,6 +82,7 @@ Section: Tweaks
 Maintainer: M4cs (macs@m4cs.xyz
 Depends: mobilesubstrate
 Conflicts:
+Filename: ./debs/EzReboot.deb
 Architecture: iphoneos-arm
 Size: 8848
 MD5sum: 972691eafd40ca050bd0984a12a7760f
