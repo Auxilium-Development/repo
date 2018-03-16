@@ -11,6 +11,7 @@ MD5sum: 7e2879feb00cf402fa73f6456af47d07
 Description: The tweak that lets you open Cydia from the ControlCenter
 Name: EzCydiaOpener
 Author: Clarke1234
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
 
 Package: com.m4cs-dev.simalary.control-center.ezsecretsettings
 Version: 1.0
@@ -57,6 +58,7 @@ Description: Complete Package for EzCC. Will be adding toggles to this packages 
 Name: EzCC
 Author: M4cs, Simalary, Chilaxan, MidnightChips
 Icon: ./Resources/EzCC.png
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC
 
 Package: pro.evanwalters.noblurfolderconxi
 Version: 0.2
@@ -72,4 +74,5 @@ MD5sum: c8fd1679c64f1b376dcf36df084ccd1d
 Description: Removes the blurry background on folder icons, fucks up the dock right now
 Name: NoBlurFolderIconXI
 Author: Evan Walters
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=NoBlurFolderIconXI
 
