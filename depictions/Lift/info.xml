@@ -11,10 +11,10 @@
 		<package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Move those silly little Control Center slider icons</description>
+		<description>Move those silly little Control Center slider icons along.</description>
 	</descriptionlist>
 	<changelog>
-		<change>First Release</change>
+		<change>1.0: Initial Release</change>
 	</changelog>
 	<links>
 		<link>

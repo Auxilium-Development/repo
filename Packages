@@ -1,68 +1,75 @@
-Package: ezccmodules.control-center.ezcc
-Name: EzCC
-Version:0.0.3
-Architecture:iphoneos-arm
-Description: Complete Package for EzCC. Will be adding toggles to this packages only from now on!
-Maintainer: macs@m4cs.xyz
-Author: M4cs, Simalary, Chiaxan, MidnightChips
-Section: Control Center 
-Conflicts:
-Depends:mobilesubstrate, com.ioscreatix.silo
-Filename: ./debs/EzCC.deb
-Icon: https://M4cs-Development.github.io/repo/debs/EzCC/resources/EzCC.png
-Size: 36804
-MD5sum: 534d6a7d2d9c968bc8b03d03bbf98212
-SHA1sum: b9737e56d1d5e5cd14b36ee18019480c89eede84
-SHA256sum: f2ef1d6e92c0b8aadc5513d4f0b67704f08d83b98eb597ff9997e2c5204723bc
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC/
-
-Package: pro.evanwalters.noblurfolderconxi
-Name: NoBlurFolderIconXI
-Version:0.2
-Architecture:iphoneos-arm
-Installed-Size: 120
-Conflicts: com.laughingquoll.noctisxi
-Description: Removes the blurry background on folder icons, fucks up the dock right now
-Maintainer: Evan Walters
-Author: Evan Walters
-Section: Tweaks
-Depends:mobilesubstrate
-Filename: ./debs/NoBlurFolderIconXI.deb
-Size: 3474
-MD5sum: 8ed8f5afb472d3975657e7307594c0e2
-SHA1sum: 2e2d77f51cfcfe3c131ec53b9727a627eb38638f
-SHA256sum: c40d31c5e2486e189e8855ee4b04f71e945afcbd19ce3a052a438066f67d12f0
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=/NoBlurFolderIconXI
-
 Package: com.clarke1234.ezcydiaopener
-Name: EzCydiaOpener
 Version: 1.1-1
-Architecture:iphoneos-arm
-Description: The tweak that lets you open Cydia from the ControlCenter
+Section: Tweaks
 Maintainer: Clarke1234
-Author: Clarke1234
-Section: Control Center 
-Conflicts:
-Replaces: 
-Depends:mobilesubstrate, com.ioscreatix.silo (1.0.0-1+debug)
+Depends: mobilesubstrate, com.ioscreatix.silo (1.0.0-1+debug)
+Architecture: iphoneos-arm
 Filename: ./debs/EzCydiaOpener.deb
 Size: 11530
-MD5sum: 7e2879feb00cf402fa73f6456af47d07
-Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCydiaLauncher
 Installed-Size: 144
+MD5sum: 7e2879feb00cf402fa73f6456af47d07
+Description: The tweak that lets you open Cydia from the ControlCenter
+Name: EzCydiaOpener
+Author: Clarke1234
 
 Package: com.m4cs-dev.simalary.control-center.ezsecretsettings
-Name: EzSecretSettings
 Version: 1.0
-Architecture:iphoneos-arm
-Description: A button to show the hidden SpringBoard settings from Control Center.
+Section: Control Center
 Maintainer: M4cs (macs@m4cs.xyz)
-Author: Simalary (Chris Harper)
-Section: Control Center 
-Conflicts:
-Replaces: 
 Depends: com.ioscreatix.silo, mobilesubstrate
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
 Filename: ./debs/EzSecret.deb
 Size: 7934
 MD5sum: 91402b0db307c1da4bc679a83f20ab44
+Description: A button to show the hidden SpringBoard settings from Control Center.
+Name: EzSecretSettings
+Author: Simalary (Chris Harper)
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezSecretSettings
+
+Package: com.simalary.lift
+Version: 1.0
+Section: Tweaks
+Maintainer: Simalary (Chris Harper)
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/simalary.lift.deb
+Size: 22138
+Installed-Size: 194
+MD5sum: a55c0ac32343d1b7e9f3131ab1c43939
+Description: Move those silly little Control Center slider icons along.
+Name: Lift
+Author: Simalary (Chris Harper)
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=Lift
+
+Package: ezccmodules.control-center.ezcc
+Version: 0.0.3
+Section: Control Center
+Maintainer: M4cs <macs@m4cs.xyz>
+Depends: mobilesubstrate, com.ioscreatix.silo
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./debs/EzCC.deb
+Size: 36812
+MD5sum: 72cf786cd7fa3b69568e0af608217f2b
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Name: EzCC
+Author: M4cs, Simalary, Chilaxan, MidnightChips
+Icon: ./Resources/EzCC.png
+
+Package: pro.evanwalters.noblurfolderconxi
+Version: 0.2
+Section: Tweaks
+Maintainer: Evan Walters
+Depends: mobilesubstrate
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Filename: ./debs/NoBlurFolderIconXI.deb
+Size: 3470
+Installed-Size: 120
+MD5sum: c8fd1679c64f1b376dcf36df084ccd1d
+Description: Removes the blurry background on folder icons, fucks up the dock right now
+Name: NoBlurFolderIconXI
+Author: Evan Walters
+
