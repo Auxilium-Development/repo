@@ -76,3 +76,17 @@ Name: NoBlurFolderIconXI
 Author: Evan Walters
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=NoBlurFolderIconXI
 
+Package: com.m4cs.control-center.ezreboot
+Version: 1.0
+Section: Tweaks
+Maintainer: M4cs (macs@m4cs.xyz)
+Depends: mobilesubstrate
+Conflicts: 
+Architecture: iphoneos-arm
+Filename: ./debs/ezReboot
+Size: 8896
+MD5sum: 1dee5387c9542cf44750211bf296a66d
+Description: Adds EzReboot Toggle to your Control Center!
+Name: EzReboot
+Author: M4cs, 5px
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezReboot
