@@ -83,7 +83,7 @@ Maintainer: M4cs (macs@m4cs.xyz)
 Depends: mobilesubstrate
 Conflicts: 
 Architecture: iphoneos-arm
-Filename: ./debs/ezReboot
+Filename: ./debs/com.m4cs.control-center.ezreboot_1.0-1+debug_iphoneos-arm.deb
 Size: 8896
 MD5sum: 1dee5387c9542cf44750211bf296a66d
 Description: Adds EzReboot Toggle to your Control Center!
