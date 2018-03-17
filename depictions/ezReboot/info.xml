@@ -15,6 +15,7 @@
 		<description>Adds a reboot module to your control center!</description>
 	</descriptionlist>
 	<changelog>
+		<change>Fixed glyph failure to show up!</change>
 		<change>First Release</change>
 	</changelog>
 	<links>
