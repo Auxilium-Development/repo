@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>0.0.4</version>
+		<change>Added EzSecret, EzCydia, and EzReboot to EzCC</change>
 		<version>0.0.3</version>
 		<change>Updated glyph to resemble actual screenshot, changed colour to pink. Also, removed EzReboot for fixing.</change>
         <version>0.0.2</version>

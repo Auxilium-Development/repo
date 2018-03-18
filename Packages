@@ -45,19 +45,18 @@ Author: Simalary (Chris Harper)
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=Lift
 
 Package: ezccmodules.control-center.ezcc
-Version: 0.0.3
+Version: 0.0.4
 Section: Control Center
 Maintainer: M4cs <macs@m4cs.xyz>
 Depends: mobilesubstrate, com.ioscreatix.silo
-Conflicts: 
+Conflicts: com.m4cs.control-center.ezreboot, com.m4cs-dev.simalary.control-center.ezsecretsettings, com.clarke1234.ezcydiaopener
 Architecture: iphoneos-arm
 Filename: ./debs/EzCC.deb
-Size: 36812
-MD5sum: 72cf786cd7fa3b69568e0af608217f2b
+Size: 86356
+MD5sum: 61bd4ffcdb00544f12d838a56a97b167
 Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
 Name: EzCC
-Author: M4cs, Simalary, Chilaxan, MidnightChips
-Icon: ./Resources/EzCC.png
+Author: M4cs, Simalary, Chilaxan, MidnightChips, Clarke1234, 5px
 Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC
 
 Package: pro.evanwalters.noblurfolderconxi
