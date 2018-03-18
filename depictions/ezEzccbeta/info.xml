@@ -1,0 +1,27 @@
+<package>
+	<id>com.m4cs.ezccbeta</id>
+	<name>EzCC Beta</name>
+	<version>0.6-beta</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Allows access to EzCC tweaks.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Fixed Update bug!</change>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
