@@ -1,12 +1,12 @@
 Package: ezccmodules.control-center.ezcc
-Name: EzCC
-Version:0.0.3
-Architecture:iphoneos-arm
-Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
-Maintainer: M4cs <macs@m4cs.xyz>
-Author: M4cs, Simalary, Chilaxan, MidnightChips
+Version: 0.0.4
 Section: Control Center
-Conflicts:
-Depends:mobilesubstrate, com.ioscreatix.silo
-Icon: ./Resources/EzCC.png
-
+Maintainer: M4cs <macs@m4cs.xyz>
+Depends: mobilesubstrate, com.ioscreatix.silo
+Conflicts: com.m4cs.control-center.ezreboot, com.m4cs-dev.simalary.control-center.ezsecretsettings, com.clarke1234.ezcydiaopener
+Architecture: iphoneos-arm
+Filename: ./debs/EzCC.deb
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Name: EzCC
+Author: M4cs, Simalary, Chilaxan, MidnightChips, Clarke1234, 5px
+Depiction: https://M4cs-Development.github.io/repo/depictions/?p=ezCC

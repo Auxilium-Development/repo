@@ -1,6 +1,6 @@
 <package>
-	<id>com.simalary.lift</id>
-	<name>Lift</name>
+	<id>com.m4cs-dev.simalary.control-center.ezsecretsettings</id>
+	<name>EzSecretSettings</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,12 +9,13 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+        <package>Silo</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Move those silly little Control Center slider icons along.</description>
+		<description>A button to show the hidden SpringBoard settings from Control Center.</description>
 	</descriptionlist>
 	<changelog>
-		<change>1.0: Initial Release</change>
+		<change>First Release</change>
 	</changelog>
 	<links>
 		<link>
