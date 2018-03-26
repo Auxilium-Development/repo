@@ -1,8 +1,8 @@
-Origin: M4cs Development Repo
-Label: M4cs Development Repo
+Origin: Auxilium Development Repo
+Label: Auxilium Development Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo for M4cs Development Team
+Description: Repo for Auxilium Development Team
