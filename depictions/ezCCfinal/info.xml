@@ -1,7 +1,7 @@
 <package>
 	<id>com.auxilium.ezcc</id>
 	<name>EzCC</name>
-	<version>1.1</version>
+	<version>1.1-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -9,6 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>Silo Available from packix.ioscreatix.com</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Complete Package for EzCC. Will be adding toggles to this packages only from now on!</description>
