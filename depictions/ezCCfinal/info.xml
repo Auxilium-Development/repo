@@ -1,7 +1,7 @@
 <package>
 	<id>com.auxilium.ezcc</id>
 	<name>EzCC</name>
-	<version>1.1-1</version>
+	<version>1.1-3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -15,6 +15,7 @@
 		<description>Complete Package for EzCC. Will be adding toggles to this packages only from now on!</description>
 	</descriptionlist>
 	<changelog>
+		<change>Fix for iCleaner and CocoaTop</change>
 		<change>Added Youtube, Spotify, 1Password, and CocoaTop.</change>
 		<change>Now supports Apollo, Twitter, Tweetbot, Facebook, Reddit, Instagram, iCleaner, Filza, Facetime, UICache, Snapchat, Settings, Secret Settings, Screenshot, Safemode, Reboot, Safari, Respring, Chrome, Reboot, Play Music, Phone, Music, Location, Google Authenticator, Facebook, Discord, and Cydia.</change>
 		<change>Updated glyph to resemble actual screenshot, changed colour to pink. Also, removed EzReboot for fixing.</change>

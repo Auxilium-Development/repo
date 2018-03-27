@@ -45,10 +45,10 @@ Author: Simalary (Chris Harper)
 Depiction: http://repo.auxiliumdev.com/depictions/?p=Lift
 
 Package: com.auxilium.ezcc
-Version: 1.1-1
+Version: 1.1-3
 Section: Tweaks
 Maintainer: Auxilium Team (macs@auxilium.com)
-Depends: mobilesubstrate, com.ioscreatix.silo
+Depends: mobilesubstrate
 Conflicts: com.m4cs.ezccbeta
 Architecture: iphoneos-arm
 Filename: ./debs/com.auxilium.ezcc.deb
@@ -56,8 +56,8 @@ Description: EzCC Module Tweak for iOS 11! Allows you to launch apps and activat
 Name: EzCC
 Author: Auxilium Team
 Depiction: http://repo.auxiliumdev.com/depictions/?p=ezCCfinal
-Size: 114782
-MD5sum: 6dc60bb4ae8746838adbcb4e6daa4b0b
+Size: 122198
+MD5sum: b4a1a28760325de63aeb39fd134e5002
 
 Package: pro.evanwalters.noblurfolderconxi
 Version: 0.2
