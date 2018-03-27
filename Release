@@ -1,8 +1,8 @@
-Origin: Auxilium Development Repo
-Label: Auxilium Development Repo
+Origin: Official Auxilium Repo - Stable
+Label: Official Auxilium Repo - Stable
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo for Auxilium Development Team
+Description: Official Stable Repo for Auxilium Development.
