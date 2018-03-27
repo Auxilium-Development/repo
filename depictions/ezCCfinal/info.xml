@@ -1,0 +1,30 @@
+<package>
+	<id>com.auxilium.ezcc</id>
+	<name>EzCC</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Silo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Complete Package for EzCC. Will be adding toggles to this packages only from now on!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Now supports Apollo, Twitter, Tweetbot, Facebook, Reddit, Instagram, iCleaner, Filza, Facetime, UICache, Snapchat, Settings, Secret Settings, Screenshot, Safemode, Reboot, Safari, Respring, Chrome, Reboot, Play Music, Phone, Music, Location, Google Authenticator, Facebook, Discord, and Cydia.</change>
+		<change>Updated glyph to resemble actual screenshot, changed colour to pink. Also, removed EzReboot for fixing.</change>
+        <change>Added EzReboot and EzScreenshot</change>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
