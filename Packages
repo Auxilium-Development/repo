@@ -99,7 +99,7 @@ Description: Saves you from accidently liking a post older than 3 days on instag
 Maintainer: Tonyk7
 Author: Tonyk7
 Section: Tweaks
-Filename: ./debs/com.tonyk7.confirminstalike.deb
+Filename: ./debs/com.tonyk7.confirminstalike_0.0.2_iphoneos-arm.deb
 Size: 5622
 MD5sum: 190d03fb4400656d5a53eed83b78f88e
 Depiction: http://repo.auxiliumdev.com/depictions/?p=confirminstalike
