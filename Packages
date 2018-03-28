@@ -93,7 +93,7 @@ Depiction: http://repo.auxiliumdev.com/depictions/?p=ezReboot
 Package: com.tonyk7.confirminstalike
 Name: ConfirmInstaLike
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Saves you from accidently liking a post older than 3 days on instagram :)
 Filename: ./debs/com.tonyk7.confirminstalike.deb
@@ -101,5 +101,5 @@ Maintainer: Tonyk7 (macs@m4cs.xyz)
 Author: Tonyk7
 Section: Tweaks
 Size: 4928
-MD5sum: cb7babf2671a14c8646a422c8b85fea9
+MD5sum: 190d03fb4400656d5a53eed83b78f88e
 Depiction: http://repo.auxiliumdev.com/depictions/?p=confirminstalike

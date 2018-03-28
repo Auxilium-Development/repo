@@ -1,7 +1,7 @@
 <package>
 	<id>com.tonyk7.confirminstalike</id>
 	<name>ConfirmInstaLike</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -14,6 +14,7 @@
 		<description>Saves you from accidently liking a post older than 3 days on instagram :)</description>
 	</descriptionlist>
 	<changelog>
+		<change>Fixes Bugs</change>
 		<change>Initial Release</change>
 	</changelog>
 	<links>
