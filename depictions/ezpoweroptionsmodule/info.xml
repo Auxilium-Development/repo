@@ -1,0 +1,27 @@
+<package>
+	<id>com.simalary.auxiliumdevelopment.ezpoweroptionsmodule</id>
+	<name>EzPowerOptions</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>Silo</package>
+	</dependencies>
+	<descriptionlist>
+		<description>3D Touch Module that combines Respring, Safemode, Reboot, and Power Off</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

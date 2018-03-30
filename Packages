@@ -103,3 +103,17 @@ Author: TonyK7
 Depiction: http://repo.auxiliumdev.com/depictions/?p=confirminstalike
 Size: 7464
 MD5sum: a5e5ab75f1759b6c89a20c53f172548b
+
+Package: com.simalary.auxiliumdevelopment.ezpoweroptionsmodule
+Name: EzPowerOptionsModule
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show power options in Control Center
+Author: Simalary (Chris Harper)
+Section: Control Center (Modules)
+Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
+Maintainer: Simalary (Chris Harper)
+Filename: ./debs/com.simalary.auxiliumdevelopment.ezpoweroptionsmodule.deb
+Depiction: http://repo.auxiliumdev.com/depictions/?p=ezpoweroptionsmodule
+MD5sum: 381be7a6c00a50d0c6f48eaca169a3a5
+Size: 10344
