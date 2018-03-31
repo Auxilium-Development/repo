@@ -51,7 +51,7 @@ Maintainer: Auxilium Team (macs@auxilium.com)
 Depends: mobilesubstrate, com.ioscreatix.silo
 Conflicts: com.m4cs.ezccbeta
 Architecture: iphoneos-arm
-Filename: ./debs/com.auxilium.ezcc.deb
+Filename: ./debs/com.auxilium.ezccfinal.deb
 Description: EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center
 Name: EzCC
 Author: Auxilium Team
