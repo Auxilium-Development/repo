@@ -117,3 +117,17 @@ Filename: ./debs/com.simalary.auxiliumdevelopment.ezpoweroptionsmodule.deb
 Depiction: https://repo.auxiliumdev.com/depictions/?p=ezpoweroptionsmodule
 MD5sum: 381be7a6c00a50d0c6f48eaca169a3a5
 Size: 10344
+
+Package: com.clarke1234.taptaprespring
+Name: TapTapRespring
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Respring your phone by double tapping the status bar.
+Maintainer: Clarke1234
+Author: Clarke1234
+Section: Tweaks
+Filename: ./debs/com.clarke1234.taptaprespring.deb
+Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaprespring
+MD5sum: 480cf748ca54d7ef6a912b81c8fc9f43
+Size: 6400

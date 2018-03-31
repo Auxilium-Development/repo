@@ -1,0 +1,26 @@
+<package>
+	<id>com.clarke1234.taptaprespring</id>
+	<name>TapTapRespring</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Allows you to quickly respring after double tapping the status bar!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
