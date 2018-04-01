@@ -131,3 +131,17 @@ Filename: ./debs/com.clarke1234.taptaprespring.deb
 Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaprespring
 MD5sum: 480cf748ca54d7ef6a912b81c8fc9f43
 Size: 6400
+
+Package: com.clarke1234.taptaputils
+Name: TapTapUtils
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tap twice on the status bar to access some basic utilities
+Maintainer: Clarke1234
+Author: Clarke1234
+Section: Tweaks
+Filename: ./debs/com.clarke1234.taptaputils.deb
+Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaputils
+MD5sum: 73f352d1f4dc78f1078faa21daeaba3d
+Size: 7152
