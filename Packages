@@ -145,3 +145,17 @@ Filename: ./debs/com.clarke1234.taptaputils.deb
 Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaputils
 MD5sum: 73f352d1f4dc78f1078faa21daeaba3d
 Size: 7152
+
+Package: com.crazyhater.callproxi
+Name: CallPro
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls
+Maintainer: Samar
+Author: Samar
+Section: Tweaks
+Filename: ./debs/com.crazyhater.callproxi.deb
+Depiction: https://repo.auxiliumdev.com/repo/depictions/callproxi
+Size: 1344
+MD5sum: 5357d88912d71d57f4a4757f9ed69b18

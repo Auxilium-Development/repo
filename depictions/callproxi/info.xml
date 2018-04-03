@@ -1,0 +1,27 @@
+<package>
+	<id>com.crazyhater.callproxi</id>
+	<name>CallPro</name>
+	<version>0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls</description>
+	</descriptionlist>
+	<changelog>
+		<version>0.3</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
