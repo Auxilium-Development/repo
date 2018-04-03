@@ -42,7 +42,7 @@ MD5sum: a55c0ac32343d1b7e9f3131ab1c43939
 Description: Move those silly little Control Center slider icons along.
 Name: Lift
 Author: Simalary (Chris Harper)
-Depiction: https://repo.auxiliumdev.com/depictions/?p=Lift
+Depiction: http://repo.auxiliumdev.com/depictions/?p=Lift
 
 Package: com.auxilium.ezcc
 Version: 1.1-4
@@ -55,7 +55,7 @@ Filename: ./debs/com.auxilium.ezccfinal.deb
 Description: EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center
 Name: EzCC
 Author: Auxilium Team
-Depiction: https://repo.auxiliumdev.com/depictions/?p=ezCCfinal
+Depiction: http://repo.auxiliumdev.com/depictions/?p=ezCCfinal
 Size: 121950
 MD5sum: e47a83890d45f4702820de5a9edb3101
 
@@ -73,7 +73,7 @@ MD5sum: c8fd1679c64f1b376dcf36df084ccd1d
 Description: Removes the blurry background on folder icons, fucks up the dock right now
 Name: NoBlurFolderIconXI
 Author: Evan Walters
-Depiction: https://repo.auxiliumdev.com/depictions/?p=NoBlurFolderIconXI
+Depiction: http://repo.auxiliumdev.com/depictions/?p=NoBlurFolderIconXI
 
 Package: com.m4cs.control-center.ezreboot
 Version: 1.1
@@ -88,7 +88,7 @@ MD5sum: beee49254d5d23745835118d75da346f
 Description: Adds EzReboot Toggle to your Control Center!
 Name: EzReboot
 Author: M4cs, 5px
-Depiction: https://repo.auxiliumdev.com/depictions/?p=ezReboot
+Depiction: http://repo.auxiliumdev.com/depictions/?p=ezReboot
 
 Package: com.tonyk7.confirminstalike
 Version: 0.0.3
@@ -100,7 +100,7 @@ Filename: ./debs/com.tonyk7.confirminstalike.deb
 Description: Saves you from accidently liking a post older than 3 days on instagram
 Name: ConfirmInstaLike
 Author: TonyK7
-Depiction: https://repo.auxiliumdev.com/depictions/?p=confirminstalike
+Depiction: http://repo.auxiliumdev.com/depictions/?p=confirminstalike
 Size: 7464
 MD5sum: a5e5ab75f1759b6c89a20c53f172548b
 
@@ -114,7 +114,7 @@ Section: Control Center (Modules)
 Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
 Maintainer: Simalary (Chris Harper)
 Filename: ./debs/com.simalary.auxiliumdevelopment.ezpoweroptionsmodule.deb
-Depiction: https://repo.auxiliumdev.com/depictions/?p=ezpoweroptionsmodule
+Depiction: http://repo.auxiliumdev.com/depictions/?p=ezpoweroptionsmodule
 MD5sum: 381be7a6c00a50d0c6f48eaca169a3a5
 Size: 10344
 
@@ -128,23 +128,23 @@ Maintainer: Clarke1234
 Author: Clarke1234
 Section: Tweaks
 Filename: ./debs/com.clarke1234.taptaprespring.deb
-Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaprespring
+Depiction: http://repo.auxiliumdev.com/depictions/?p=taptaprespring
 MD5sum: 480cf748ca54d7ef6a912b81c8fc9f43
 Size: 6400
 
 Package: com.clarke1234.taptaputils
 Name: TapTapUtils
-Depends: mobilesubstrate, firmware (>= 8.0)
-Version: 1.0
+Depends: mobilesubstrate
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Tap twice on the status bar to access some basic utilities
 Maintainer: Clarke1234
 Author: Clarke1234
 Section: Tweaks
 Filename: ./debs/com.clarke1234.taptaputils.deb
-Depiction: https://repo.auxiliumdev.com/depictions/?p=taptaputils
-MD5sum: 1a4ef8be5c43f8a932c9688404b578fd
-Size: 22594
+Depiction: http://repo.auxiliumdev.com/depictions/?p=taptaputils
+MD5sum: 2b11b1c253ff4161f74231223ee09467
+Size: 18498
 
 Package: com.crazyhater.callproxi
 Name: CallPro
@@ -156,7 +156,7 @@ Maintainer: Samar
 Author: Samar
 Section: Tweaks
 Filename: ./debs/com.crazyhater.callproxi.deb
-Depiction: https://repo.auxiliumdev.com/repo/depictions/callproxi
+Depiction: http://repo.auxiliumdev.com/repo/depictions/callproxi
 Size: 1344
 MD5sum: 5357d88912d71d57f4a4757f9ed69b18
 
