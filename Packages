@@ -160,16 +160,3 @@ Depiction: https://repo.auxiliumdev.com/repo/depictions/callproxi
 Size: 1344
 MD5sum: 5357d88912d71d57f4a4757f9ed69b18
 
-Package: com.auxilium.darkswitcher
-Name: DarkSwitcher Beta
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: Customize your App Switcher background brightness!
-Maintainer: Auxilium (auxilium@gmail.com)
-Author: Tonyk7 and Macs
-Section: Tweaks
-Filename: ./debs/com.auxilium.darkswitcher.deb
-Depiction: https://repo.auxiliumdev.com/repo/depictions/darkswitcher
-Size: 7612
-MD5sum: ace92e37f7a9287e75a560ef10a86565
