@@ -1,0 +1,27 @@
+<package>
+	<id>com.auxilium.darkswitcher</id>
+	<name>DarkSwitcher</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Customize your App Switcher background brightness! </description>
+	</descriptionlist>
+	<changelog>
+		<version>0.0.1</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
