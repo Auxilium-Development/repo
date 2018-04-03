@@ -158,4 +158,9 @@ Section: Tweaks
 Filename: ./debs/com.crazyhater.callproxi.deb
 Depiction: https://repo.auxiliumdev.com/repo/depictions/callproxi
 Size: 1344
+<<<<<<< HEAD
 MD5sum: 5357d88912d71d57f4a4757f9ed69b18
+=======
+MD5sum: 5357d88912d71d57f4a4757f9ed69b18
+
+>>>>>>> gh-pages
