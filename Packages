@@ -135,17 +135,17 @@ Size: 6400
 Package: com.clarke1234.taptaputils
 Name: TapTapUtils
 Depends: mobilesubstrate
-Version: 2.0-7
+Version: 2.1
 Architecture: iphoneos-arm
 Description: Tap twice on the status bar to access some basic utilities
 Maintainer: Clarke1234
 Author: Clarke1234
-Installed-Size: 254
+Installed-Size: 117
 Section: Tweaks
 Filename: ./debs/com.clarke1234.taptaputils.deb
 Depiction: http://repo.auxiliumdev.com/depictions/?p=taptaputils
-MD5sum: 2b11b1c253ff4161f74231223ee09467
-Size: 18498
+MD5sum: f0c653f4d02692869ca6f0ec26149468
+Size: 5920
 
 Package: com.crazyhater.callproxi
 Name: CallPro
