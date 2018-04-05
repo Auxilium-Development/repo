@@ -1,0 +1,26 @@
+<package>
+	<id>com.midnightchips.clearmessagetop</id>
+	<name>EzCC Beta</name>
+	<version>0.0.1-12</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Beginning of Full Screen iMessages, EARLY ALPHA</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
