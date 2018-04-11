@@ -165,8 +165,20 @@ Description: Add color to the app switcher - Dark mode only right now
 Maintainer: Macs (macs@gmail.com)
 Author: Macs and ResearchOP
 Section: Tweaks
-Filename: debs//com.macs.colorswitcher
+Filename: debs//com.macs.colorswitcher.deb
 Size: 5110
 MD5sum: e849f489a6e62262d0c589940a9f52c7
 
+Package: com.hal0405.clearswitcher
+Name: ClearSwitcher
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove the blur in the app-switcher!
+Maintainer: Hal0405
+Author: Hal0405
+Section: Tweaks
+Filename: debs//com.hal0405.clearswitcher.deb
+Size: 2596
+MD5sum: 76cc95b83e7271ab41698b4ca9463a1f
 
