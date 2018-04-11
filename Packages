@@ -156,3 +156,17 @@ Description: Removes the blurry background on folder icons, fucks up the dock ri
 Name: NoBlurFolderIconXI
 Author: Evan Walters
 
+Package: com.macs.colorswitcher
+Name: ColorSwitcher
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add color to the app switcher
+Maintainer: Macs (macs@gmail.com)
+Author: Macs and ResearchOP
+Section: Tweaks
+Filename: debs//com.macs.colorswitcher
+Size: 5110
+MD5sum: cc8a886e70ed023f4b6bf0e3503872d3
+
+
