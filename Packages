@@ -166,8 +166,8 @@ Maintainer: Macs (macs@gmail.com)
 Author: Macs (macs@gmail.com)
 Section: Tweaks
 Filename: debs//com.macs.colorswitcher.deb
-Size: 144850
-MD5sum: eb94e6fcc8d23a89790aaed44141dd4c
+Size: 142150
+MD5sum: 68001bcb1c300000e3bbba7ecfc5bf50
 
 Package: com.hal0405.clearswitcher
 Name: ClearSwitcher
