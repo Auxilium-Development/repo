@@ -159,15 +159,15 @@ Author: Evan Walters
 Package: com.macs.colorswitcher
 Name: ColorSwitcher
 Depends: mobilesubstrate
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
-Description: Add color to the app switcher - Dark mode only right now
+Description: Add any color to the App Switcher! Requires libcolorpicker!
 Maintainer: Macs (macs@gmail.com)
-Author: Macs and ResearchOP
+Author: Macs (macs@gmail.com)
 Section: Tweaks
-Filename: debs//com.macs.colorswitcher.deb
-Size: 5110
-MD5sum: e849f489a6e62262d0c589940a9f52c7
+Filename: debs//com.macs.colorswitcher_0.0.3.deb
+Size: 231892
+MD5sum: 2b2b0522efb1ebd9942c6dd0a5799e6c
 
 Package: com.hal0405.clearswitcher
 Name: ClearSwitcher
