@@ -159,7 +159,7 @@ Author: Evan Walters
 Package: com.macs.colorswitcher
 Name: ColorSwitcher
 Depends: mobilesubstrate
-Version: 0.0.4
+Version: 0.0.5
 Architecture: iphoneos-arm
 Description: Add any color to the App Switcher! Requires libcolorpicker!
 Maintainer: Macs (macs@gmail.com)
@@ -167,7 +167,7 @@ Author: Macs (macs@gmail.com)
 Section: Tweaks
 Filename: debs//com.macs.colorswitcher.deb
 Size: 144850
-MD5sum: e3be7683cf6c12a1697ba2f793202e1d
+MD5sum: eb94e6fcc8d23a89790aaed44141dd4c
 
 Package: com.hal0405.clearswitcher
 Name: ClearSwitcher
