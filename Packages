@@ -182,3 +182,15 @@ Filename: debs//com.hal0405.clearswitcher.deb
 Size: 2596
 MD5sum: 76cc95b83e7271ab41698b4ca9463a1f
 
+Package: com.daniel63194.clearfolders
+Name: ClearFolders
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make your folders cleaner with this tweak!
+Maintainer: daniel63194/Infinite
+Author: daniel63194/Infinite
+Section: Tweaks
+Version: 1.0-5+debug
+Filename: debs//com.daniel63194.clearfolders
+Size: 36164
+MD5sum: d17fdd5c2e5fb065c0fe511c26dbe9c1
