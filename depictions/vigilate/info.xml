@@ -17,8 +17,10 @@
 	<changelog>
 		<change>First Release</change>
 	</changelog>
+	<screenshots>
 		<description>example</description>
 	<image>palert.jpg</image>
+  </screenshots>
 	<links>
 		<link>
 			<name> /r/jailbreak</name>
