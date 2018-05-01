@@ -18,8 +18,10 @@
 		<change>First Release</change>
 	</changelog>
 	<screenshots>
+		<screenshot>
 		<description>example</description>
 	<image>palert.jpg</image>
+</screenshot>
   </screenshots>
 	<links>
 		<link>
