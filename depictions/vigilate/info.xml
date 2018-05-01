@@ -9,7 +9,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-        <package>Silo</package>
+		<package>Palert</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Enable Palert on iOS 11. YOU NEED TO BUY AND INSTALL PALERT FIRST</description>
@@ -18,8 +18,10 @@
 		<change>First Release</change>
 	</changelog>
 	<screenshots>
+		<screenshot>
 		<description>example</description>
-	<screenshot>palert.jpg</screenshot>
+	<image>palert.jpg</image>
+</screenshot>
   </screenshots>
 	<links>
 		<link>
