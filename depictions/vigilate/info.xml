@@ -18,7 +18,8 @@
 		<change>First Release</change>
 	</changelog>
 	<screenshots>
-	<screenshot>palert.png</screenshot>
+		<description>example</description>
+	<screenshot>palert.jpg</screenshot>
   </screenshots>
 	<links>
 		<link>
