@@ -8,27 +8,27 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
- 
+
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
   <script type="text/javascript" src="js/data-loader-engine.js"></script>
   <script type="text/javascript" src="js/ios_version_check.js"></script>
   <style>
-	@media (max-width: 767px) {
+	@media (max-width: 1000px) {
 		body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
-	}  
+	}
   </style>
   <script type="text/javascript">
-  
-	bundleid = $.QueryString['p'];	
+
+	bundleid = $.QueryString['p'];
 
     var contentBlocks = 	{
-        "#screenshotsList"	: 
-			{"type":"custom"  
+        "#screenshotsList"	:
+			{"type":"custom"
 				,"source" :"package>screenshots>screenshot"
 				,"render" : function(element,source){
 				console.log($(source).size());
 					if ($(source).size()==0) {
-						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") );
 						return;
 					}
 					$.each(source, function(index,data) {
@@ -41,7 +41,7 @@
 						)
 						$(element).append(th);
 					});
-					
+
 				}
 			}
 	}
@@ -60,7 +60,7 @@
 				$("#packageInformation").hide();
             }
         }); //ajax
-		
+
     }); // ready
   </script>
 </head>
@@ -77,14 +77,14 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository. 
+		<strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository.
 	  </div>
 	</div>
 </div>
 <!-- REPO FOOTER -->
 <script type="text/javascript">
     var repoContents = 	{
-		"#repoFooterLinks" : 
+		"#repoFooterLinks" :
 			{"type":"custom"
 				,"source":"repo>footerlinks>link"
 				,"render":function(element,source) {
@@ -96,7 +96,7 @@
 							i.attr("class",$(data).find('iconclass').text());
 							console.log(i);
 							$(a).append(i);
-						} 
+						}
 						$(a).append($(data).find('name').text());
 						$(element).append(a);
 					}); //each
@@ -116,8 +116,8 @@
 			},
             error: function() {$("#contactInfo").hide()}
         }); //ajax
-		
-		
+
+
     }); // ready
 
 </script>
