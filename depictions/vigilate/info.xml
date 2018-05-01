@@ -17,7 +17,9 @@
 	<changelog>
 		<change>First Release</change>
 	</changelog>
-	<screenshots>palert.png</screenshots>
+	<screenshots>
+	<screenshot>palert.png</screenshot>
+  </screenshots>
 	<links>
 		<link>
 			<name> /r/jailbreak</name>
