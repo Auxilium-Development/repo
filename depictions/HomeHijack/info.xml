@@ -1,0 +1,38 @@
+<package>
+	<id>com.midnightchips.homehijack</id>
+	<name>HomeHijack</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>applist</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Who in the world actually uses Siri? Now you can actually make use of a long press of the home button. Go open up Alexa or Google Now, or something not even assistant related at all. If you want to use Siri, just toggle the selected application off in settings.</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<screenshots>
+		<screenshot>
+		<description>Landing</description>
+	<image>landing.png</image>
+</screenshot>
+<screenshot>
+<description>App Select</description>
+<image>applist.png</image>
+</screenshot>
+  </screenshots>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
