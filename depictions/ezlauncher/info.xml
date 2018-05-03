@@ -1,0 +1,38 @@
+<package>
+	<id>com.auxilium.ezlauncher</id>
+	<name>EzLauncher</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>applist</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Rather then having us make your toggles, how about we give you the ability to select the apps you want to launch. Introducing EzLauncher. Comes with 10 blank toggles that you can choose which application is launched, just from the settings tab :). Includes All of EzCC's Utilites.</description>
+	</descriptionlist>
+	<changelog>
+		<change>First Release</change>
+	</changelog>
+	<screenshots>
+		<screenshot>
+		<description>Landing</description>
+	<image>landing.png</image>
+</screenshot>
+<screenshot>
+<description>App Select</description>
+<image>applist.png</image>
+</screenshot>
+  </screenshots>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
