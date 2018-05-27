@@ -1,0 +1,48 @@
+<package>
+	<id>com.kietha.sleepanywhere</id>
+	<name>SleepAnywhere</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Why use lock button when you have gestures</description>
+	</descriptionlist>
+	<changelog>
+		<change>Bug Fixes! Fixes scroll lag, lock button sound, delay issue, etc.</change>
+	</changelog>
+  <screenshots>
+		<screenshot>
+		<description>Front page</description>
+	<image>sleepanywhere1.png</image>
+</screenshot>
+<screenshot>
+<description>Status Bar Settings</description>
+<image>sleepanywhere2.png</image>
+</screenshot>
+  </screenshots>
+  <screenshots>
+		<screenshot>
+		<description>Home Screen Settings</description>
+	<image>sleepanywhere3.png</image>
+</screenshot>
+<screenshot>
+  <screenshots>
+		<screenshot>
+		<description>Lock Screen Settings</description>
+	<image>sleepanywhere4.png</image>
+</screenshot>
+<screenshot>
+	<links>
+		<link>
+			<name> /r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
