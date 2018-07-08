@@ -1,8 +1,8 @@
 #!/bin/bash
-cd /var/www/repo
+cd /sites/repo.auxiliumdev.com/public_html
 git pull
-rm /var/www/repo/Packages
-touch /var/www/repo/Packages
-/var/www/repo/dpkg-scanpackages debs /var/www/repo/debs > Packages
-bzip2 -c9 /var/www/repo/Packages > /var/www/repo/Packages.bz2
+rm /sites/repo.auxiliumdev.com/public_html/Packages
+rm /sites/repo.auxiliumdev.com/public_html/Packages.bz2
+/sites/repo.auxiliumdev.com/public_html/dpkg-scanpackages debs /sites/repo.auxiliumdev.com/public_html/debs > Packages
+bzip2 -c9 /sites/repo.auxiliumdev.com/public_html/Packages > /sites/repo.auxiliumdev.com/public_html/Packages.bz2
 echo "Updated Packages"
