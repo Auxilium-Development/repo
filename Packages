@@ -1,17 +1,104 @@
+Package: com.auxilium.excitant
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Auxilium
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/com.auxilium.excitant_0.0.2_iphoneos-arm.deb
+Size: 104170
+Installed-Size: 508
+MD5sum: be58e759f1a6034760c968e0f23d94a0
+Description: Keep it secret, keep it safe.
+Name: Excitant
+Author: Auxilium
+
 Package: com.auxilium.ezcc
-Version: 1.1-4
+Version: 1.2.4
 Section: Tweaks
 Maintainer: Auxilium Team (macs@auxilium.com)
-Depends: mobilesubstrate, com.ioscreatix.silo
+Depends: mobilesubstrate
 Conflicts: com.m4cs.ezccbeta
 Architecture: iphoneos-arm
-Filename: debs//com.auxilium.ezccfinal.deb
-Size: 121950
-MD5sum: e47a83890d45f4702820de5a9edb3101
+Filename: debs/com.auxilium.ezccfinal.nsurl.deb
+Size: 128548
+MD5sum: 64eb8681bef8e99ee4e840475aed3996
 Description: EzCC Module Tweak for iOS 11! Allows you to launch apps and activate system commands from the Control Center
 Name: EzCC
 Author: Auxilium Team
 Depiction: http://repo.auxiliumdev.com/depictions/?p=ezCCfinal
+
+Package: com.auxilium.ezlauncher
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Auxilium Team (macs@auxilium.com)
+Depends: mobilesubstrate, applist
+Conflicts: com.m4cs.ezccbeta
+Replaces: com.auxilium.ezcc
+Architecture: iphoneos-arm
+Filename: debs/com.auxilium.ezlauncher2.deb
+Size: 1027548
+MD5sum: 6b0e21a31e7d2e0e6fef2ba04d9ce525
+Description: Activate Commands such as respring from the CC, and set your own apps to be launched.
+Name: EzLauncher
+Author: MidnightChips
+Depiction: http://repo.auxiliumdev.com/depictions/?p=ezlauncher
+Icon: file:///Library/PreferenceBundles/EzLauncher.bundle/Icon.png
+
+Package: com.auxilium.haystack.ezcc
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Auxilium Team (macs@auxilium.com)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.auxilium.haystack.ezcc_0.0.2_iphoneos-arm.deb
+Size: 2445864
+Installed-Size: 8672
+MD5sum: f5e32527b83fdb3204fa1b1a473ace4f
+Name: EzCC for Haystack, Page 1
+Icon: file:///Library/Haystack/Bundles/com.auxilium.haystack.EzCC.bundle/icon.png
+
+Package: com.auxilium.noannoyinginfo
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: MidnightChip
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.auxilium.noannoyinginfo_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3054
+Installed-Size: 120
+MD5sum: f5c5ac700ed8bca3e12a9b1a547f0e73
+Description: An awesome MobileSubstrate tweak!
+Name: No Annoying Info
+Author: MidnightChip
+
+Package: com.chilaxan.ezswitch
+Version: 1.0.0-4+debug
+Section: Tweaks
+Maintainer: chilaxan
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.chilaxan.ezswitch_1.0.0-4debug_iphoneos-arm.deb
+Size: 57916
+Installed-Size: 366
+MD5sum: 83700dc49ab9aceb1bc693d869701725
+Description: An awesome MobileSubstrate tweak!
+Name: EzSwitch
+Author: chilaxan
+
+Package: com.chloeeisoaky.twittomizer
+Version: 1.0
+Section: Tweaks
+Maintainer: Chloeeisoaky
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/com.chloeeisoaky.twittomizer_1.0_iphoneos-arm.deb
+Size: 127380
+Installed-Size: 568
+MD5sum: 3afc4d766332f216d771d5b23391ffa4
+Description: Customize Yo Twitter with Twittomizer
+Name: Twittomizer
+Author: Chloeeisoaky
+Icon: file:///Library/PreferenceBundles/Twittomizer.bundle/icon@3x.png
 
 Package: com.clarke1234.ezcydiaopener
 Version: 1.1-1
@@ -19,12 +106,26 @@ Section: Tweaks
 Maintainer: Clarke1234
 Depends: mobilesubstrate, com.ioscreatix.silo (1.0.0-1+debug)
 Architecture: iphoneos-arm
-Filename: debs//EzCydiaOpener.deb
+Filename: debs/EzCydiaOpener.deb
 Size: 11530
 Installed-Size: 144
 MD5sum: 7e2879feb00cf402fa73f6456af47d07
 Description: The tweak that lets you open Cydia from the ControlCenter
 Name: EzCydiaOpener
+Author: Clarke1234
+
+Package: com.clarke1234.fullscreenapps
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Clarke1234
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.clarke1234.fullscreenapps_0.0.1-1debug_iphoneos-arm.deb
+Size: 10714
+Installed-Size: 246
+MD5sum: 26f77bf6d316b66d6d897eec08b9f959
+Description: An awesome MobileSubstrate tweak!
+Name: FullScreenApps
 Author: Clarke1234
 
 Package: com.clarke1234.taptaprespring
@@ -33,7 +134,7 @@ Section: Tweaks
 Maintainer: Clarke1234
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.clarke1234.taptaprespring.deb
+Filename: debs/com.clarke1234.taptaprespring.deb
 Size: 6400
 Installed-Size: 117
 MD5sum: 480cf748ca54d7ef6a912b81c8fc9f43
@@ -42,15 +143,15 @@ Name: TapTapRespring
 Author: Clarke1234
 
 Package: com.clarke1234.taptaputils
-Version: 2.1-1+debug
+Version: 2.5-1
 Section: Tweaks
 Maintainer: Clarke1234
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.clarke1234.taptaputils_2.1-1debug_iphoneos-arm.deb
-Size: 22474
-Installed-Size: 262
-MD5sum: 2faaf71dd933b907d6358bff1a0c7dce
+Filename: debs/com.clarke1234.taptaputils_2.5-1_iphoneos-arm.deb
+Size: 18860
+Installed-Size: 254
+MD5sum: 21da0a9aead8aea6422c9ef5fb65dea0
 Description: Tap twice on the status bar to access some basic utilities
 Name: TapTapUtils
 Author: Clarke1234
@@ -61,13 +162,189 @@ Section: Tweaks
 Maintainer: Samar
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.crazyhater.callproxi.deb
+Filename: debs/com.crazyhater.callproxi.deb
 Size: 1344
 Installed-Size: 40
 MD5sum: 5357d88912d71d57f4a4757f9ed69b18
 Description: Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls
 Name: CallPro
 Author: Samar
+
+Package: com.daniel63194.clearfolders
+Version: 1.3
+Section: Tweaks
+Maintainer: daniel63194/Infinite
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Conflicts: pro.evanwalters.noblurfoldericonsxi, stealthfolders
+Architecture: iphoneos-arm
+Filename: debs/com.daniel63194.clearfolders_1.3_iphoneos-arm.deb
+Size: 25632
+Installed-Size: 278
+MD5sum: 15aed40726a6a5a6c69db1929949d89d
+Description: Make your folders cleaner with this tweak!
+Name: ClearFolders
+Author: daniel63194/Infinite
+
+Package: com.hal0405.clearswitcher
+Version: 1.0
+Section: Tweaks
+Maintainer: Hal0405
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.hal0405.clearswitcher.deb
+Size: 2596
+Installed-Size: 116
+MD5sum: 76cc95b83e7271ab41698b4ca9463a1f
+Description: Remove the blur in the app-switcher!
+Name: ClearSwitcher
+Author: Hal0405
+
+Package: com.hal0405.floatcc
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Hal0405
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.hal0405.floatcc_1.0.1_iphoneos-arm.deb
+Size: 2766
+Installed-Size: 116
+MD5sum: 2647701b3f826b5f0597a9c17715a8de
+Description: Makes the CC Float!
+Name: FloatCC
+Author: Hal0405
+
+Package: com.iosblocks.curago
+Version: 0.2.5-1-7+debug
+Priority: optional
+Section: System
+Maintainer: iOS Creatix
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Filename: debs/com.iosblocks.curago_0.2.5-1-7+debug_iphoneos-arm.deb
+Size: 1642238
+Installed-Size: 7816
+MD5sum: 9d3d247cbc0939b2ad160863d71a3462
+Description: An integrated widget system, built for perfomance, and the reaction from people when they see it and be like "that's awesome bro, ETA???!!!!". And we reply, "Ayyyy lmao, nope", and they say "Fuck man, y u so cruel? Can i beta test?". And we reply, "Nah bro", and they say "But I'll pay?!!". And we don't reply, because ain't nobody got time fo' that.
+Name: iOS Blocks
+Author: Creatix & iOS Blocks Team
+Homepage: https://iosblocks.com
+Depiction: https://packix.ioscreatix.com/package/com.iosblocks.curago
+Icon: file:///Library/PreferenceBundles/curago.bundle/curagoIcon@3x.png
+
+Package: com.ioscreatix.intelix
+Version: 1.2.3
+Section: Tweaks
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Conflicts: it.dreamcode.picobanners2, com.cpdigitaldarkroom.fastunlockx
+Architecture: iphoneos-arm
+Filename: debs/com.ioscreatix.intelix_1.2.3_iphoneos-arm.deb
+Size: 47124
+Installed-Size: 172
+MD5sum: e4da51745c0baaf62128c71028e61eb5
+Description: Grouped Notifications on iOS 11
+Name: Intelix
+Author: iOS Creatix
+
+Package: com.ioscreatix.silo
+Version: 1.0.1-3+debug
+Section: Tweaks
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ioscreatix.silo_1.0.1-3+debug_iphoneos-arm.deb
+Size: 6438
+Installed-Size: 124
+MD5sum: 43566fe40536bbb045a57a12fb1ef823
+Description: Allows Reordering of all the CC Modules and for Developers to add their own
+Name: Silo
+Author: iOS Creatix
+
+Package: com.ioscreatix.sugarcane
+Version: 1.0.0-1+debug
+Section: Tweaks
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ioscreatix.sugarcane_1.0.0-1+debug_iphoneos-arm.deb
+Size: 7888
+Installed-Size: 124
+MD5sum: 42add643c538ddacb04194cd10a7ccb7
+Description: Get percentages for the sliders in the Control Center on iOS 11
+Name: SugarCane
+Author: iOS Creatix
+
+Package: com.ioscreatix.weathervane
+Version: 1.1.0-1+debug
+Section: Tweaks
+Maintainer: iOS Creatix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.ioscreatix.weathervane_1.1.0-1+debug_iphoneos-arm.deb
+Size: 15708
+Installed-Size: 140
+MD5sum: 9dcc4aad2423fcf66e3b8bd24b4978b3
+Description: Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11
+Name: WeatherVane
+Author: iOS Creatix
+
+Package: com.kietha.fuckoffccgrabber
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Kiet Ha
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.kietha.fuckoffccgrabber_0.0.1_iphoneos-arm.deb
+Size: 2524
+Installed-Size: 117
+MD5sum: 2ff80c73a5e616d5d21afbc47e9dd812
+Description: Hides the CC grabber in lockscreen!
+Name: FuckOffCCGrabber
+Author: Kiet Ha
+
+Package: com.kietha.personinpicture
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Kiet Ha
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.kietha.personinpicture_0.0.1_iphoneos-arm.deb
+Size: 2618
+Installed-Size: 69
+MD5sum: b756413ccaf7e9c1ca48535690c32140
+Description: Facetime PIP!
+Name: PersonInPicture
+Author: Kiet Ha
+
+Package: com.kietha.sleepanywhere
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Kiet Ha
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.kietha.sleepanywhere_1.0.1_iphoneos-arm.deb
+Size: 30038
+Installed-Size: 298
+MD5sum: a619d7e36a1f86c8ee72e6ae35cc71c7
+Description: Why use lock button when you have gestures
+Name: SleepAnywhere
+Author: Kiet Ha
+
+Package: com.kietha.taptapsleep
+Version: 1.1
+Section: Tweaks
+Maintainer: Kiet Ha
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.kietha.taptapsleep_1.1_iphoneos-arm.deb
+Size: 5690
+Installed-Size: 117
+MD5sum: 5584b1e6b8c799b09bc95ae6c45e617c
+Description: Double tap your status bar to sleep your device with no more scroll lag!
+Name: TapTapSleep
+Author: Kiet Ha
 
 Package: com.m4cs-dev.simalary.control-center.ezsecretsettings
 Version: 1.0
@@ -77,7 +354,7 @@ Depends: com.ioscreatix.silo, mobilesubstrate
 Conflicts: 
 Replaces: 
 Architecture: iphoneos-arm
-Filename: debs//EzSecret.deb
+Filename: debs/EzSecret.deb
 Size: 7934
 MD5sum: 91402b0db307c1da4bc679a83f20ab44
 Description: A button to show the hidden SpringBoard settings from Control Center.
@@ -90,7 +367,7 @@ Version: 1.1-1+debug
 Section: Control Center (Modules)
 Maintainer: M4cs
 Architecture: iphoneos-arm
-Filename: debs//com.m4cs.control-center.ezreboot_1.1-1+debug_iphoneos-arm.deb
+Filename: debs/com.m4cs.control-center.ezreboot_1.1-1+debug_iphoneos-arm.deb
 Size: 8776
 Installed-Size: 128
 MD5sum: beee49254d5d23745835118d75da346f
@@ -98,13 +375,114 @@ Description: A Reboot button for your Control Center.
 Name: EzReboot
 Author: M4cs
 
+Package: com.macs.colorswitcher
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Macs (macs@gmail.com)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.macs.colorswitcher.deb
+Size: 142150
+Installed-Size: 386
+MD5sum: 68001bcb1c300000e3bbba7ecfc5bf50
+Description: Add any color to the App Switcher! Requires libcolorpicker!
+Name: ColorSwitcher
+Author: Macs (macs@gmail.com)
+
+Package: com.macs.nomorebanners
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Macs
+Depends: 
+Architecture: iphoneos-arm
+Filename: debs/com.macs.nomorebanners_0.0.2_iphoneos-arm.deb
+Size: 3724
+Installed-Size: 116
+MD5sum: 2aa50f5652b017beecc469007d5d5549
+Description: Hide those annoying "Open In App Banners"
+Name: NoMoreBanners
+Author: Macs
+
+Package: com.midnightchips.homehijack
+Version: 1.3.1
+Section: Tweaks
+Maintainer: MidnightChip
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/com.midnightchips.homehijack_1.3.1_iphoneos-arm.deb
+Size: 95676
+Installed-Size: 372
+MD5sum: c4b65f7ad5c0f92d6f4604a4bb7fac9e
+Description: Get rid of the annoying Siri, and use something worthwhile!
+Name: HomeHijack
+Author: MidnightChip
+Depiction: https://repo.auxiliumdev.com/depictions/?p=HomeHijack
+Icon: file:///Library/PreferenceBundles/homehijackpreferences.bundle/icon.png
+
+Package: com.muirey03.powermodule
+Version: 1.1.1
+Section: Control Center (Modules)
+Maintainer: Muirey03
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.powermodule_1.1.1_iphoneos-arm.deb
+Size: 59856
+Installed-Size: 354
+MD5sum: 6c8c569ae29aaa7103418e6c316f4a12
+Description: Group different utility actions into one control center module (iOS 11 only)
+Name: PowerModule
+Author: Muirey03
+Icon: file:///Library/ControlCenter/Bundles/PowerModule.bundle/SettingsIcon@3x.png
+
+Package: com.muirey03.smallccxi
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Muirey03
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.smallccxi_1.0.2_iphoneos-arm.deb
+Size: 7310
+Installed-Size: 242
+MD5sum: 354abbd0fe70400d0f15185dab2125b6
+Description: Make the ios 11 Control Center smaller!
+Name: SmallCCXI
+Author: Muirey03
+
+Package: com.rustybalboa.colormycc
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Maddox, Muirey03
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1)
+Architecture: iphoneos-arm
+Filename: debs/com.rustybalboa.colormycc_2.0.0_iphoneos-arm.deb
+Size: 19364
+Installed-Size: 270
+MD5sum: eb8dcb944d426419bffcf48cc6fc61dc
+Description: ColorMyCC Colors the background, modules and buttons of the control center to your preference!
+Name: colormycc
+Author: Maddox, Muirey03
+
+Package: com.simalary-midnightchips.auxiliumdevelopment.motus
+Version: 0.0.4-1+debug
+Section: Tweaks
+Maintainer: Simalary (Chris Harper), MidnightChips
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.simalary-midnightchips.auxiliumdevelopment.motus_0.0.4-1debug_iphoneos-arm.deb
+Size: 168270
+Installed-Size: 428
+MD5sum: c9ce2e730b5ac20e114333b09696cc97
+Description: Easily oppen Control Center from the bottom corners of your iPhone X.
+Name: Motus
+Author: Simalary (Chris Harper), MidnightChips
+
 Package: com.simalary.auxiliumdevelopment.ezpoweroptionsmodule
 Version: 1.0
 Section: Control Center (Modules)
 Maintainer: Simalary (Chris Harper)
 Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
 Architecture: iphoneos-arm
-Filename: debs//com.simalary.auxiliumdevelopment.ezpoweroptionsmodule.deb
+Filename: debs/com.simalary.auxiliumdevelopment.ezpoweroptionsmodule.deb
 Size: 10344
 Installed-Size: 84
 MD5sum: 381be7a6c00a50d0c6f48eaca169a3a5
@@ -112,13 +490,27 @@ Description: Show power options in Control Center
 Name: EzPowerOptionsModule
 Author: Simalary (Chris Harper)
 
+Package: com.simalary.auxiliumdevelopment.previewbegone
+Version: 1.0
+Section: Tweaks
+Maintainer: Simalary (Chris)
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+Filename: debs/com.simalary.auxiliumdevelopment.previewbegone_1.0_iphoneos-arm.deb
+Size: 2882
+Installed-Size: 117
+MD5sum: 3d312d2844ea5ef7568922e6796eadcc
+Description: Eliminate the screenshot preview on iOS 11.
+Name: PreviewBeGone
+Author: Simalary (Chris)
+
 Package: com.simalary.lift
 Version: 1.0
 Section: Tweaks
 Maintainer: Simalary (Chris Harper)
 Depends: mobilesubstrate, firmware(>=11.0)
 Architecture: iphoneos-arm
-Filename: debs//simalary.lift.deb
+Filename: debs/simalary.lift.deb
 Size: 22138
 Installed-Size: 194
 MD5sum: a55c0ac32343d1b7e9f3131ab1c43939
@@ -126,13 +518,56 @@ Description: Move those silly little Control Center slider icons along.
 Name: Lift
 Author: Simalary (Chris Harper)
 
+Package: com.squ1dd13.hapticlock
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Squ1dd13
+Depends: mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Filename: debs/com.squ1dd13.hapticlock_0.0.1_iphoneos-arm.deb
+Size: 7370
+Installed-Size: 140
+MD5sum: 6baa2dc289e6e4a107f74e1f0013b747
+Description: A tweak to do … and …
+Name: HaptiClock
+Author: Squ1dd13
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/old.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.tonyk7.0vigilate
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Tonyk7
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.tonyk7.0vigilate_0.0.1_iphoneos-arm.deb
+Size: 2252
+Installed-Size: 72
+MD5sum: 0cb4f7e68e2d215935aa6ecaeaaf9c68
+Description: An awesome MobileSubstrate tweak!
+Name: 0vigilate
+Author: Tonyk7
+Depiction: https://repo.auxiliumdev.com/depictions/?p=vigilate
+
 Package: com.tonyk7.confirminstalike
 Version: 0.0.3-1+debug
 Section: Tweaks
 Maintainer: Auxilium Team (macs@auxilium.com)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.tonyk7.confirminstalike.deb
+Filename: debs/com.tonyk7.confirminstalike.deb
 Size: 7464
 Installed-Size: 121
 MD5sum: a5e5ab75f1759b6c89a20c53f172548b
@@ -141,6 +576,22 @@ Name: ConfirmInstaLike
 Author: TonyK7
 Depiction: http://repo.auxiliumdev.com/depictions/?p=confirminstalike
 
+Package: com.vitataf.homegesture
+Version: 1.5-5+debug
+Section: Tweaks
+Maintainer: MidnightChips/PINPAL
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.vitataf.homegesture_1.5-5debug_iphoneos-arm.deb
+Size: 6738
+Installed-Size: 132
+MD5sum: b0d5a8c089c7d363eece9bde70f6d260
+Description: Enable iPhone X home gesture on other devices.
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://pinpal.github.io/package/HomeGesture/index.html
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+
 Package: pro.evanwalters.noblurfolderconxi
 Version: 0.2
 Section: Tweaks
@@ -148,7 +599,7 @@ Maintainer: Evan Walters
 Depends: mobilesubstrate
 Conflicts: com.laughingquoll.noctisxi
 Architecture: iphoneos-arm
-Filename: debs//NoBlurFolderIconXI.deb
+Filename: debs/NoBlurFolderIconXI.deb
 Size: 3470
 Installed-Size: 120
 MD5sum: c8fd1679c64f1b376dcf36df084ccd1d
@@ -156,41 +607,17 @@ Description: Removes the blurry background on folder icons, fucks up the dock ri
 Name: NoBlurFolderIconXI
 Author: Evan Walters
 
-Package: com.macs.colorswitcher
-Name: ColorSwitcher
-Depends: mobilesubstrate
-Version: 0.0.5
-Architecture: iphoneos-arm
-Description: Add any color to the App Switcher! Requires libcolorpicker!
-Maintainer: Macs (macs@gmail.com)
-Author: Macs (macs@gmail.com)
+Package: uk.evanw.squareui
+Version: 2.0-7+debug
 Section: Tweaks
-Filename: debs//com.macs.colorswitcher.deb
-Size: 142150
-MD5sum: 68001bcb1c300000e3bbba7ecfc5bf50
+Maintainer: Infinite (Evan Walters) <evan@evanw.uk>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/uk.evanw.squareui_2.0-7debug_iphoneos-arm.deb
+Size: 3050
+Installed-Size: 120
+MD5sum: 7526c11634225969c9097928fc65b5cb
+Description: make ios square!
+Name: SquareUI
+Author: Infinite (Evan Walters) <evan@evanw.uk>
 
-Package: com.hal0405.clearswitcher
-Name: ClearSwitcher
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Remove the blur in the app-switcher!
-Maintainer: Hal0405
-Author: Hal0405
-Section: Tweaks
-Filename: debs//com.hal0405.clearswitcher.deb
-Size: 2596
-MD5sum: 76cc95b83e7271ab41698b4ca9463a1f
-
-Package: com.daniel63194.clearfolders
-Name: ClearFolders
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Make your folders cleaner with this tweak!
-Maintainer: daniel63194/Infinite
-Author: daniel63194/Infinite
-Section: Tweaks
-Version: 1.0-5+debug
-Filename: debs//com.daniel63194.clearfolders
-Size: 36164
-MD5sum: d17fdd5c2e5fb065c0fe511c26dbe9c1
